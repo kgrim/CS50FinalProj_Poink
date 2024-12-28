@@ -1,5 +1,5 @@
 # POINK! Pong Game
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://youtu.be/WfLZE8ulS7M)>
 
 #### Description:
 POINK! is a simple 2D pong game written in C++ using the Raylib library. It allows players to enjoy a classic pong experience with both single-player and two-player modes. The game includes a main menu, gameplay mechanics, and a game over screen with options to restart or exit.
