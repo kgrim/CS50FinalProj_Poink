@@ -19,12 +19,12 @@ void Paddle::Update(int x, int y)
     }
     else
     {
-        if (IsKeyDown(KEY_LEFT) && paddleInfo.x >= 0)
+        if (IsKeyDown(KEY_A) && paddleInfo.x >= 0)
         {
             paddleInfo.x -= paddleInfo.speed;
         }
 
-        if (IsKeyDown(KEY_RIGHT) && paddleInfo.x + paddleInfo.width <= screenWidth)
+        if (IsKeyDown(KEY_D) && paddleInfo.x + paddleInfo.width <= screenWidth)
         {
             paddleInfo.x += paddleInfo.speed;
         }  
