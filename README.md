@@ -75,8 +75,8 @@ make
 
 - **Main Menu**: Navigate using the UP and DOWN arrow keys to select between "1 Player", "2 Player", or "Exit".
 - **In-Game**:
-  - Player 1 (Blue) uses W to move up and S to move down.
-  - Player 2 (Red) uses the UP and DOWN arrow keys to move.
+  - Player 1 (Blue) uses UP to move up and DOWN to move down.
+  - Player 2 (Red) uses the A and D arrow keys to move sideways.
   - AI (if active) automatically moves based on the ball position.
 - **Game Over**: Once the score reaches 10, the game will show the game over screen. You can press R to retry or ESC to exit the game.
 
